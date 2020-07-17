@@ -5,3 +5,6 @@ print(x+y)
 
 #sub
 print(x-y)
+
+#mul
+print(x*y)
