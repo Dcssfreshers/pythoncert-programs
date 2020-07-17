@@ -8,3 +8,9 @@ print(x-y)
 
 #mul
 print(x*y)
+
+#div
+print(x/y)
+
+#mod
+print(x%y)
